@@ -123,7 +123,7 @@ int PartTwo() {
 
             else {
 
-                for (const auto& it : char_map) {
+                for (auto & it : char_map) {
 
                     int nchar = it.second;
                     int value = it.second;
