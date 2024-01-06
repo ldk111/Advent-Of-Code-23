@@ -38,3 +38,7 @@
 *.opensdf
 *.sdf
 *.cachefile
+
+#AOC Text files
+*.txt
+*.txt.bak
